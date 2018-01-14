@@ -321,10 +321,10 @@ header {
 .owl-carousel .item {
 	margin: 0 10px;
 }
-.owl-carousel .item img {
-	border:5px solid #ccc;
-	border-radius: 5px;
-}
+/* .owl-carousel .item img {
+	border:0px solid #2c3e50;
+	border-radius: 0px;
+} */
 .owl-theme .owl-controls{
 	margin-top: 25px;
 	text-align: center;
